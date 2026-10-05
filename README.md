@@ -36,3 +36,14 @@ Keys are stored only in your browser and sent only to Anthropic or OpenAI. No ke
 ## Hosting
 
 This is a single static file (`index.html`). GitHub Pages serves it from the repository root (Settings → Pages → Deploy from branch → `main` / root).
+
+## Edit, test and repost (for friends)
+
+1. **Test:** open the app link at the top of this page. Product page: `/product/`.
+2. **Edit in your browser, no install:** on this repo page press the `.` key (or open https://github.dev/astroidturtle/shailesh-pdf-super-editor). The app is `index.html`; the product page is `product/index.html`.
+3. **Save your changes:** in the editor's Source Control panel, commit.
+   - If you were added as a collaborator, it goes straight onto the live site within about a minute.
+   - If not, GitHub offers to **fork** the repo. Commit to your fork, then click **Contribute → Open pull request** to send the change back.
+4. **Host your own copy (optional):** in your fork, go to Settings → Pages, choose Deploy from a branch → `main` / root. It appears at `https://<your-username>.github.io/shailesh-pdf-super-editor/`.
+
+Found a bug or have an idea? Open an issue: https://github.com/astroidturtle/shailesh-pdf-super-editor/issues
