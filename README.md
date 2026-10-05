@@ -2,7 +2,8 @@
 
 A free, open PDF annotation app that runs entirely in your browser. Nothing is uploaded: your PDF stays on your device.
 
-**Open the app:** `https://<your-github-username>.github.io/shailesh-pdf-super-editor/`
+**Open the app:** https://astroidturtle.github.io/shailesh-pdf-super-editor/  
+**Product page:** https://astroidturtle.github.io/shailesh-pdf-super-editor/product/
 
 ## What it does
 
